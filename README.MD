@@ -171,3 +171,9 @@ int main(void){
     }
     return 0;
 }
+
+
+
+
+
+https://infostart.ru/1c/articles/1426964/
